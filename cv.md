@@ -1,7 +1,7 @@
 # Pavel Barishev
 ## Contact Information
    * __Email:__ pavelvada@gmail.com
-   * __Phone:__ +998 90 9999 168
+   * __Phone:__ +998 90 9999168
    * __WhatsApp:__ +99890 9999168
    * __Viber:__ +99890 9999168
    * __[Telegram](https://t.me/kikbobr)__
@@ -20,7 +20,7 @@ I have a willing of getting more experience in programming and learning more abo
 ## Experience
    - Working on projects in HTML/CSS/JS, C#, Angular 8, SQL, ASP.NET MVC 5 at University.
    - Working as a freelancer, e.g. https://kikbobr.github.io/eventide/
-   - Working as a system administrator in one local organization 
+   - Working as a system administrator in one local organization
 ## Education
   * Bachelor Degree at Westminster International University in Tashkent
   * Lyceum International House Tashkent under TIIM
