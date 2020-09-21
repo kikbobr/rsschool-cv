@@ -1,0 +1,34 @@
+.main_block {
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.main_block p, a, li {
+    font-size: 14pt;
+}
+
+.contact-info {
+    height: 250px;
+}
+
+.contact-info img {
+    width: 200px;
+    height: auto;
+    border-radius: 15%;
+    float: left;
+}
+
+.contact-info ul {
+    display: inline-block;
+}
+
+.contact-info li {
+    list-style: none;
+    margin-left: auto;
+}
+
+.summary p {
+    padding-left: 20px;
+}
